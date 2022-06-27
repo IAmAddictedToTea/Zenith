@@ -1,2 +1,2 @@
 # Zenith
-A free ROBLOX script with a plethera of features without the bs.
+# A free, premium-quality script without all the bs.
